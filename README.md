@@ -1,2 +1,1 @@
-# vinay kumar
-# all about data science
+This Repo will help you in Developing Skills on Python from the scratch..
